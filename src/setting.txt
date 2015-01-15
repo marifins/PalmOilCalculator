@@ -1,0 +1,6 @@
+PotensiF0 = 17.50
+PotensiF00 = 19.50
+PotensiF123 = 23.20
+PotensiF4 = 20.40
+PotensiF5 = 18.30
+PotensiBrd = 37.00
